@@ -24,8 +24,8 @@ Bot de gestión financiera personal integrado con Telegram y Claude AI.
 → [Ver repositorio](https://github.com/MSolaz/GestorFinanciero)
 
 ### 🔌 Obtimizador Eléctrico.
-Aplicación para la gestión de carga de vehículos de manera optima.
-`Python` · `Docker` · `Gradient Boots` · `REE API`  
+Aplicación para la gestión de carga de vehículos de manera optima.  
+`Python` · `Docker` · `Gradient Boots` · `REE API`    
 → [Ver repositorio](https://github.com/MSolaz/ObtimizadorElectrico)
 
 ### 🌐 Portfolio Web

@@ -18,15 +18,15 @@ Actualmente trabajando en tech y siempre con algún proyecto entre manos.
 
 ## 🚀 Proyectos destacados
 
-### 🤖 Finance Chatbot
-Bot de gestión financiera personal integrado con Telegram y Claude AI.  
-`Python` · `Telegram API` · `Claude API`  
-→ [Ver repositorio](https://github.com/MSolaz/GestorFinanciero)
-
 ### 🔌 Obtimizador Eléctrico.
 Aplicación para la gestión de carga de vehículos de manera optima.  
 `Python` · `Docker` · `Gradient Boots` · `REE API`    
 → [Ver repositorio](https://github.com/MSolaz/ObtimizadorElectrico)
+
+### 🤖 Finance Chatbot
+Bot de gestión financiera personal integrado con Telegram y Claude AI.  
+`Python` · `Telegram API` · `Claude API`  
+→ [Ver repositorio](https://github.com/MSolaz/GestorFinanciero)
 
 ### 🌐 Portfolio Web
 Sitio personal con mis proyectos, habilidades y contacto.  

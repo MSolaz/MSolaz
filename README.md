@@ -21,7 +21,7 @@ Actualmente trabajando en tech y siempre con algún proyecto entre manos.
 ### 🔌 Optimizador Eléctrico.
 Aplicación para la gestión de carga de vehículos de manera optima.  
 `Python` · `Docker` · `Gradient Boosting` · `REE API`    
-→ [Ver repositorio](https://github.com/MSolaz/ObtimizadorElectrico)
+→ [Ver repositorio](https://github.com/MSolaz/OptimizadorElectrico)
 
 ### 🤖 Finance Chatbot
 Bot de gestión financiera personal integrado con Telegram y Claude AI.  

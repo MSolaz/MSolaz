@@ -18,7 +18,7 @@ Actualmente trabajando en tech y siempre con algún proyecto entre manos.
 
 ## 🚀 Proyectos destacados
 
-### 🔌 Obtimizador Eléctrico.
+### 🔌 Optimizador Eléctrico.
 Aplicación para la gestión de carga de vehículos de manera optima.  
 `Python` · `Docker` · `Gradient Boosting` · `REE API`    
 → [Ver repositorio](https://github.com/MSolaz/ObtimizadorElectrico)

@@ -21,7 +21,7 @@ Actualmente trabajando en tech y siempre con algún proyecto entre manos.
 ### 🤖 Finance Chatbot
 Bot de gestión financiera personal integrado con Telegram y Claude AI.  
 `Python` · `Telegram API` · `Claude API`  
-→ [Ver repositorio](#)
+→ [Ver repositorio](https://github.com/MSolaz/GestorFinanciero)
 
 ### 🌐 Portfolio Web
 Sitio personal con mis proyectos, habilidades y contacto.  
